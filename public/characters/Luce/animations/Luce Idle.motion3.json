@@ -1,0 +1,48 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3.983,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 1,
+		"TotalSegmentCount": 4,
+		"TotalPointCount": 11,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "DogBlink",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.761,
+				1,
+				1.522,
+				1,
+				2.283,
+				1,
+				1,
+				2.317,
+				1,
+				2.35,
+				0,
+				2.383,
+				0,
+				1,
+				2.411,
+				0,
+				2.439,
+				1,
+				2.467,
+				1,
+				0,
+				3.983,
+				1
+			]
+		}
+	]
+}
